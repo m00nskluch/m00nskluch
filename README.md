@@ -2,8 +2,6 @@
 
 ### A budding Css developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m00nskluch&label=Profile views&color=0e75b6&style=flat" alt="m00nskluch" /> </p>
-
 - 🔭 I'm currently working on **High-performance web solutions for local businesses and custom landing pages.**
 
 - 🌱 I'm currently learning **Advanced System Architecture and Scalable PostgreSQL optimization.**
